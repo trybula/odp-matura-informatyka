@@ -17,7 +17,7 @@ Rozwiązania niektórych zadań z matury z informatyki na przestrzeni lat 2006-2
   * [PP dane](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Arkusze_egzaminacyjne/2011/Dane_PP.rar)
 * 2012
   * [Próbna PP arkusz](http://w.vilo.bydgoszcz.pl/mpiekarska/home/matura/kompletne-arkusze/dodatkowe-arkusze/pp_A2_2012.pdf) ([Mirror](http://docs.google.com/viewer?a=v&pid=sites&srcid=dmlsby5ieWRnb3N6Y3oucGx8bXBpZWthcnNrYXxneDo3YjNkOTc3MjMzYjQzMDEy))
-  * [Próbna PP dane](http://w.vilo.bydgoszcz.pl/mpiekarska/home/matura/kompletne-arkusze/dodatkowe-arkusze/Dane2012PP.zip?attredirects=0&d=1)
+  * [Próbna PP dane](http://w.vilo.bydgoszcz.pl/mpiekarska/home/matura/kompletne-arkusze/dodatkowe-arkusze/Dane2012PP.zip)
   * [PP arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Arkusze_egzaminacyjne/2012/maj/infor/a2_pp.pdf)
   * [PP dane](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Arkusze_egzaminacyjne/2012/maj/infor/Dane_PP.rar)
   * [PR arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Arkusze_egzaminacyjne/2012/maj/infor/a2_pr.pdf)
