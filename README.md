@@ -1,6 +1,9 @@
 # Matura z informatyki
-Rozwiązania niektórych zadań z matury z informatyki na przestrzeni lat 2006-2014. Poziom podstawowy i rozszerzony, a także matura próbna.
+Rozwiązania niektórych zadań z matury z informatyki na przestrzeni lat 2006-2014. Poziom podstawowy i rozszerzony, a także matura próbna.([Szymmir](https://github.com/szymmirr))
 
+## Update 2024
+Rozwiązania Rozwiązania niektórych zadań z matury z informatyki na przestrzeni lat ?-2024. !(Nie są to najlepsze rozwiązania)
+## Linki
 * 2006
   * [PR arkusz](https://cke.gov.pl/images/stories/Matura2006/a2_inform.pdf)
   * [PR dane](https://cke.gov.pl/images/stories/DANE.rar)
@@ -30,3 +33,7 @@ Rozwiązania niektórych zadań z matury z informatyki na przestrzeni lat 2006-2
   * [PP dane](https://cke.gov.pl/images/files/matura/arkusze_2014/dane_PP.rar)
   * [PR arkusz](https://cke.gov.pl/images/files/matura/arkusze_2014/informatyka_PR_2_A1.pdf)
   * [PR dane](https://cke.gov.pl/images/files/matura/arkusze_2014/dane_PR.rar)
+* 2024
+  * [maj arkusz](https://arkusze.pl/maturalne/informatyka-2024-maj-matura-rozszerzona.pdf)
+  * [maj odpowiedzi](https://arkusze.pl/maturalne/informatyka-2024-maj-matura-rozszerzona-odpowiedzi.pdf)
+  * [maj dane](https://arkusze.pl/maturalne/informatyka-2024-maj-matura-rozszerzona-zalaczniki.zip) 
